@@ -1,9 +1,6 @@
 # Sneaker-Website
 
-
-Screenshots
-![3](https://github.com/user-attachments/assets/003153b3-9e3a-49f7-a594-b61f202b2a94)
-
+<img width="1205" height="624" alt="Screenshot 2025-08-16 at 8 11 08 AM" src="https://github.com/user-attachments/assets/e26e7f2f-a061-4d7a-a4b2-9d9d6e269932" />
 
 
 ## SneakerHub – Online Sneaker Store UI
