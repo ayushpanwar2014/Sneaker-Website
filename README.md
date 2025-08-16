@@ -1,9 +1,7 @@
-# Sneaker-Website
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=007EFF&background=3159FF00&width=900&lines=%F0%9F%91%9F+%F0%9F%91%A0+Sneaker+Website+%E2%80%93+Online+Sneaker+Store+UI)](https://git.io/typing-svg)
 
 <img width="1205" height="624" alt="Screenshot 2025-08-16 at 8 11 08 AM" src="https://github.com/user-attachments/assets/e26e7f2f-a061-4d7a-a4b2-9d9d6e269932" />
 
-
-## SneakerHub – Online Sneaker Store UI
 A responsive and interactive front-end interface for an e-commerce sneaker store, built using HTML, CSS, JavaScript, and Tailwind CSS. Designed for a seamless user experience with dynamic product displays and smooth navigation.
 
 ## Key Features
