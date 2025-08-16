@@ -25,8 +25,7 @@ Reduced styling complexity using Tailwind CSS utility classes for maintainable c
 
 ## Tech Stack
 
-Frontend: HTML, CSS, JavaScript, Tailwind CSS
-Tools: Git, GitHub
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&perline=5" alt="Tech Stack" />
 
 ## Installation
 ```bash
